@@ -1,0 +1,16 @@
+{
+  "name": "backend-final",
+  "version": "1.0.0",
+  "description": "a final baackend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chai",
+    "node",
+    "javascript"
+  ],
+  "author": "suyaaa",
+  "license": "ISC"
+}
